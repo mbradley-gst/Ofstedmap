@@ -1,0 +1,1 @@
+var json_warrington_3 = {"type":"FeatureCollection","name":"warrington_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"schname":"KLA Warrington"},"geometry":{"type":"Point","coordinates":[-2.538303264289894,53.401764379921637]}}]}
